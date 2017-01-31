@@ -1,0 +1,28 @@
+{
+  "name": "socket-chat",
+  "version": "0.0.1",
+  "description": "a chat app using socket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Kenichiwaa/socket-chat.git"
+  },
+  "keywords": [
+    "socket.io",
+    "node.js",
+    "express"
+  ],
+  "author": "Kenichi Sugai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kenichiwaa/socket-chat/issues"
+  },
+  "homepage": "https://github.com/Kenichiwaa/socket-chat#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "socket.io": "^1.7.2"
+  }
+}
